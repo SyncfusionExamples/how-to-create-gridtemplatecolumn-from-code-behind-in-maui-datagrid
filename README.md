@@ -43,7 +43,7 @@ public partial class MainPage : ContentPage
 ```
 ![How to create DataGridTemplateColumn](DataGridTemplateColumn.png)
 ## Conclusion
-I hope you enjoyed learning about how to you to create DataGridTemplate column from code behind in MAUI DataGrid (SfDataGrid).
+I hope you enjoyed learning about how to you to create DataGridTemplateColumn from code behind in MAUI DataGrid (SfDataGrid).
 
 You can refer to our [.NET MAUI DataGrid’s feature tour](https://www.syncfusion.com/maui-controls/maui-datagrid) page to know about its other groundbreaking feature representations. You can also explore our .NET MAUI DataGrid Documentation to understand how to present and manipulate data.
 For current customers, you can check out our .NET MAUI components from the [License and Downloads](https://www.syncfusion.com/account/downloads) page. If you are new to Syncfusion, you can try our 30-day free trial to check out our .NET MAUI DataGrid and other .NET MAUI components.
