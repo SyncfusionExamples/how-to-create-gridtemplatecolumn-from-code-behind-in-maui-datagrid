@@ -2,7 +2,7 @@
 In.NET [MAUI DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid) (SfDataGrid) allows you to load custom views in its [DataGridCell](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.DataGridCell.html) using the [DataGridTemplateColumn](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.DataGridTemplateColumn.html). It can be created both in XAML and in the code behind. You can load any view inside the **DataGridCell** by customizing the [CellTemplate](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.DataGridTemplateColumn.html#Syncfusion_Maui_DataGrid_DataGridTemplateColumn_CellTemplate) property of the **DataGridTemplateColumn**.
 
 The below code illustrates how to add **DataGridTemplateColumn** in code-behind.
-
+## C#
 ```C#
 public partial class MainPage : ContentPage
 {
